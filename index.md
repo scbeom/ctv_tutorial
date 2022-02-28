@@ -241,43 +241,43 @@ Each level must have at least one topic before the next level starts. You can't 
 
 ```yaml
 entries:
-- title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
-  folders:
-  - title: Overview
-    output: web, pdf
-    folderitems:
+  - title: sidebar
+    product: Jekyll Doc Theme
+    version: 6.0
+    folders:
+      - title: Overview
+        output: web, pdf
+        folderitems:
 
-    -
+          -
 
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
+      - title: Release Notes
+        output: web, pdf
+        folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
+          - title: 6.0 Release notes
+            url: /mydoc_release_notes_60.html
+            output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+          - title: 5.0 Release notes
+            url: /mydoc_release_notes_50.html
+            output: web, pdf
 
-  - title: Installation
-    output: web, pdf
-    folderitems:
+      - title: Installation
+        output: web, pdf
+        folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
-      output: web, pdf
+          - title: About Ruby, Gems, Bundler, etc.
+            url: /mydoc_about_ruby_gems_etc.html
+            output: web, pdf
 
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
+          - title: Install Jekyll on Mac
+            url: /mydoc_install_jekyll_on_mac.html
+            output: web, pdf
 
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
+          - title: Install Jekyll on Windows
+            url: /mydoc_install_jekyll_on_windows.html
+            output: web, pdf
 ```
 
 To accommodate the title page and table of contents in PDF outputs, each product sidebar must list these pages before any other:
