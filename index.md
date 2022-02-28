@@ -174,59 +174,59 @@ The sidebar data file uses a specific YAML syntax that you must follow. Follow t
 
 ```yaml
 entries:
-- title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
-  folders:
-  - title: Overview
-    output: web, pdf
-    folderitems:
+  - title: sidebar
+    product: Jekyll Doc Theme
+    version: 6.0
+    folders:
+      - title: Overview
+        output: web, pdf
+        folderitems:
 
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
+          - title: Get started
+            url: /index.html
+            output: web, pdf
+            type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
+          - title: Introduction
+            url: /mydoc_introduction.html
+            output: web, pdf
 
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
+      - title: Release Notes
+        output: web, pdf
+        folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
+          - title: 6.0 Release notes
+            url: /mydoc_release_notes_60.html
+            output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+          - title: 5.0 Release notes
+            url: /mydoc_release_notes_50.html
+            output: web, pdf
 
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
+      - title: Tag archives
         output: web
-        subfolderitems:
+        folderitems:
 
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
+          - title: Tag archives overview
+            url: /mydoc_tag_archives_overview.html
+            output: web
 
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
+            subfolders:
+              - title: Tag archive pages
+                output: web
+                subfolderitems:
 
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
+                  - title: Formatting pages
+                    url: /tag_formatting.html
+                    output: web
+
+                  - title: Navigation pages
+                    url: /tag_navigation.html
+                    output: web
+
+                  - title: Content types pages
+                    url: /tag_content_types.html
+                    output: web
 ```
 
 Each `folder` or `subfolder` must contain a `title` and `output` property. Each `folderitem` or `subfolderitem` must contain a `title`, `url`, and `output` property.
@@ -287,14 +287,14 @@ To accommodate the title page and table of contents in PDF outputs, each product
   output: pdf
   type: frontmatter
   folderitems:
-  - title:
-    url: /titlepage
-    output: pdf
-    type: frontmatter
-  - title:
-    url: /tocpage
-    output: pdf
-    type: frontmatter
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
 ```
 
 Leave the output as `output: pdf` for these frontmatter pages so that they don't appear in the web output.
