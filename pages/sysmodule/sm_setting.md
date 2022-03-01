@@ -10,6 +10,12 @@ summary: These instructions will help you get started quickly with the theme....
 
 Changbeom test
 
+## Image
+
+
+{% include note.html content="In CellTrackVis, an image sequence is inessential because every data set is handled independently (but interconnected internally). In other words, reasonable resolution data is enough for the background image." %}
+
+
 ## Survey of features
 
 Some of the more prominent features of this theme include the following:

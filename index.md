@@ -12,7 +12,7 @@ summary: These brief instructions will help you get started quickly with the Cel
 CellTrackVis supports a quick and easy analysis of cell movements with relevant information.
 Interconnected views help users effortlessly discover meaningful patterns of cell motions and divisions, and also each component is highly customizable for various biological tasks.
 
-## Environment Setup
+## Environment setup
 
 **Requirements:**
 - MAC OS, Linux or Windows
