@@ -19,14 +19,18 @@ entries:
             output: pdf
             type: frontmatter
 
-      - title: Overview
+      - title: 1. Overview
         output: web, pdf
         folderitems:
 
-          - title: Get started
+          - title: 1.1. Get started
             url: /index.html
             output: web, pdf
             type: homepage
+
+          - title: 1.2. Introduction
+            url: /ov_introduction.html
+            output: web, pdf
 
           - title: Introduction
             url: /mydoc_introduction.html
@@ -42,6 +46,14 @@ entries:
 
           - title: Support
             url: /mydoc_support.html
+            output: web, pdf
+
+      - title: 2. System Modules
+        output: web, pdf
+        folderitems:
+
+          - title: 2.1. Setting view
+            url: /sm_setting.html
             output: web, pdf
 
       - title: Release Notes
