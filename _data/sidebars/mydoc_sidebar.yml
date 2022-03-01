@@ -23,16 +23,16 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: 1.1. Quick start
+          - title: 1.1 Quick start
             url: /index.html
             output: web, pdf
             type: homepage
 
-          - title: 1.2. Introduction
+          - title: 1.2 Introduction
             url: /ov_introduction.html
             output: web, pdf
 
-          - title: 1.3. Input files
+          - title: 1.3 Input files
             url: /ov_inputfile.html
             output: web, pdf
 
@@ -40,19 +40,19 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: 2.1. Setting view
+          - title: 2.1 Setting view
             url: /sm_setting.html
             output: web, pdf
 
-          - title: 2.2. Trajectory view
+          - title: 2.2 Trajectory view
             url: /sm_trajectory.html
             output: web, pdf
 
-          - title: 2.3. Lineage view
+          - title: 2.3 Lineage view
             url: /sm_setting.html
             output: web, pdf
 
-          - title: 2.4. Statistic view
+          - title: 2.4 Statistic view
             url: /sm_setting.html
             output: web, pdf
 
@@ -60,11 +60,11 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: 3.1. Scenario 1
+          - title: 3.1 Scenario 1
             url: /uc_scenario_1.html
             output: web, pdf
 
-          - title: 3.2. Scenario 2
+          - title: 3.2 Scenario 2
             url: /uc_scenario_2.html
             output: web, pdf
 
