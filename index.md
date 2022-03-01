@@ -1,5 +1,5 @@
 ---
-title: "Getting started with the tutorial for analyzing cell behaviors and ancestries"
+title: "Getting started with the tutorial for CellTrackVis"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
