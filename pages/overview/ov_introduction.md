@@ -3,6 +3,7 @@ title: Introduction
 sidebar: mydoc_sidebar
 permalink: ov_introduction.html
 folder: overview
+summary: These instructions will help you get started quickly with the theme.....
 ---
 
 ## Overview

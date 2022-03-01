@@ -1,9 +1,9 @@
 ---
-title: Setting view
+title: The first scenario
 sidebar: mydoc_sidebar
-permalink: sm_setting.html
-folder: sysmodule
-summary: These instructions will help you get started quickly with the theme.....
+permalink: uc_scenario_1.html
+folder: usecase
+summary: This example will help ..... pipeline ....
 ---
 
 ## Overview

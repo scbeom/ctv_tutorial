@@ -32,6 +32,58 @@ entries:
             url: /ov_introduction.html
             output: web, pdf
 
+      - title: 2. System Modules
+        output: web, pdf
+        folderitems:
+
+          - title: 2.1. Setting view
+            url: /sm_setting.html
+            output: web, pdf
+
+          - title: 2.2. Trajectory view
+            url: /sm_trajectory.html
+            output: web, pdf
+
+          - title: 2.3. Lineage view
+            url: /sm_setting.html
+            output: web, pdf
+
+          - title: 2.4. Statistic view
+            url: /sm_setting.html
+            output: web, pdf
+
+      - title: 3. Use Cases
+        output: web, pdf
+        folderitems:
+
+          - title: 3.1. Scenario 1
+            url: /uc_scenario_1.html
+            output: web, pdf
+
+          - title: 3.2. Scenario 2
+            url: /uc_scenario_2.html
+            output: web, pdf
+
+      - title: 4. Release Notes
+        output: web, pdf
+        folderitems:
+
+          - title: 6.0 Release notes
+            url: /mydoc_release_notes_60.html
+            output: web, pdf
+
+      - title: 5. Tag archives
+        output: web, pdf
+        folderitems:
+
+      - title: Overview
+        output: web, pdf
+        folderitems:
+
+#          - title: Get started
+#            url: /index.html
+#            output: web, pdf
+
           - title: Introduction
             url: /mydoc_introduction.html
             output: web, pdf
@@ -46,14 +98,6 @@ entries:
 
           - title: Support
             url: /mydoc_support.html
-            output: web, pdf
-
-      - title: 2. System Modules
-        output: web, pdf
-        folderitems:
-
-          - title: 2.1. Setting view
-            url: /sm_setting.html
             output: web, pdf
 
       - title: Release Notes

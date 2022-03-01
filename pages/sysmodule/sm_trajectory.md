@@ -1,14 +1,14 @@
 ---
-title: Setting view
+title: Trajectory view
 sidebar: mydoc_sidebar
-permalink: sm_setting.html
+permalink: sm_trajectory.html
 folder: sysmodule
 summary: These instructions will help you get started quickly with the theme.....
 ---
 
 ## Overview
 
-Changbeom test
+This Changbeom test
 
 ## Survey of features
 
