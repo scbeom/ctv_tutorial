@@ -32,6 +32,10 @@ entries:
             url: /ov_introduction.html
             output: web, pdf
 
+          - title: 1.3. Input files
+            url: /ov_inputfile.html
+            output: web, pdf
+
       - title: 2. System Modules
         output: web, pdf
         folderitems:
