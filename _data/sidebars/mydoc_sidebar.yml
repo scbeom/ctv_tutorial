@@ -36,6 +36,10 @@ entries:
             url: /ov_inputfile.html
             output: web, pdf
 
+          - title: 1.4 Preprocessing
+            url: /ov_preprocessing.html
+            output: web, pdf
+
       - title: 2. System Modules
         output: web, pdf
         folderitems:
@@ -49,11 +53,11 @@ entries:
             output: web, pdf
 
           - title: 2.3 Lineage view
-            url: /sm_setting.html
+            url: /sm_lineage.html
             output: web, pdf
 
           - title: 2.4 Statistic view
-            url: /sm_setting.html
+            url: /sm_statistic.html
             output: web, pdf
 
       - title: 3. Use Cases
