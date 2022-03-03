@@ -10,6 +10,8 @@ summary: These instructions will help you get started quickly with the theme....
 
 Changbeom test
 
+{% include tip.html content="For a better efficiency, use this module ....." %}
+
 ## Survey of features
 
 Some of the more prominent features of this theme include the following:

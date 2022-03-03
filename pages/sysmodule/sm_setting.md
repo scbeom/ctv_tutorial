@@ -16,6 +16,18 @@ Changbeom test
 {% include note.html content="In CellTrackVis, an image sequence is inessential because every data set is handled independently (but interconnected internally). In other words, reasonable resolution data is enough for the background image." %}
 
 
+    ```js
+    function alert("hello");
+    ```
+
+4.  Another item.
+
+### Key Principle to Remember with Lists
+
+The key principle is to line up the first character after the dot following the number:
+
+{% include image.html file="liningup.png" caption="Lining up the left edge ensures the list stays in tact." %}
+
 ## Survey of features
 
 Some of the more prominent features of this theme include the following:
