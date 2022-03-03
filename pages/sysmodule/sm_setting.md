@@ -22,7 +22,7 @@ Changbeom test
     function alert("hello");
     ```
 
-{% include warning.html content="If you want to upload image data sets, place your data folder in the provided "image" folder." %}
+{% include warning.html content="If you want to upload image data sets, place your data folder in the provided image folder." %}
 
 {% include important.html content="This is my important info." %}
 
