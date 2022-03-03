@@ -36,15 +36,10 @@ The key principle is to line up the first character after the dot following the 
 
 ## Survey of features
 
-Some of the more prominent features of this theme include the following:
+Some of the more ..... following:
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+* [Cell Tracking Challenge](http://www.celltrackingchallenge.net) for contents
+* Advanced landing page layouts from the ???.
 
 ## Getting started
 
