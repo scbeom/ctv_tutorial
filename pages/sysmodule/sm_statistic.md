@@ -10,20 +10,12 @@ summary: These instructions will help you get started quickly with the theme....
 
 This Changbeom test
 
-## Survey of features
+## Quantified data
 
-Some of the more prominent features of this theme include the following:
+One of the main obstacles .... :
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+## Remark
 
-## Getting started
-
-To get started, see [Getting Started][index].
+To get started, see [input module][sm_setting].
 
 {% include links.html %}
