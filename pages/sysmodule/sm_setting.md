@@ -1,5 +1,7 @@
 ---
 title: Setting view
+tags: [file_format]
+keywords: setting
 sidebar: mydoc_sidebar
 permalink: sm_setting.html
 folder: sysmodule
@@ -24,7 +26,7 @@ Changbeom test
 
 {% include warning.html content="If you want to upload image data sets, place your data folder in the provided image folder." %}
 
-{% include important.html content="This is my important info." %}
+{% include important.html content="When you want to upload new data sets, place each data set in corresponding proper folder." %}
 
 4.  Another item.
 
@@ -33,8 +35,6 @@ Changbeom test
 The key principle is to line up the first character after the dot following the number:
 
 {% include image.html file="liningup.png" caption="Lining up the left edge ensures the list stays in tact." %}
-
-## Survey of features
 
 Some of the more ..... following:
 

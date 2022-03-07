@@ -60,16 +60,20 @@ entries:
             url: /sm_statistic.html
             output: web, pdf
 
-      - title: 3. Use Cases
+      - title: 3. Examples
         output: web, pdf
         folderitems:
 
-          - title: 3.1 Scenario 1
-            url: /uc_scenario_1.html
+          - title: 3.1 Example 1
+            url: /ex_example_1.html
             output: web, pdf
 
-          - title: 3.2 Scenario 2
-            url: /uc_scenario_2.html
+          - title: 3.2 Example 2
+            url: /ex_example_2.html
+            output: web, pdf
+
+          - title: 3.3 Example 3
+            url: /ex_example_3.html
             output: web, pdf
 
       - title: 4. Release Notes

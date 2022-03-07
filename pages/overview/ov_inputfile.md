@@ -1,5 +1,7 @@
 ---
 title: Input files
+tags: [file_format]
+keywords: input format
 sidebar: mydoc_sidebar
 permalink: ov_inputfile.html
 folder: overview

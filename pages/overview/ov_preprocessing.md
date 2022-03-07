@@ -3,26 +3,14 @@ title: Preprocessing
 sidebar: mydoc_sidebar
 permalink: ov_preprocessing.html
 folder: overview
-summary: These instructions will help you get started quickly with the theme.....
+summary: Pre-processors are provided for dealing with various data types. 
 ---
 
 ## Overview
 
-Changbeom test
+{% include tip.html content="CellTrackVis ..." %}
 
-{% include tip.html content="For a better efficiency, use this module ....." %}
-
-## Survey of features
-
-Some of the more prominent features of this theme include the following:
-
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+{% include note.html content="Each pre-processor is temporary provided and will be moved into the integrated main code in stages." %}
 
 ## Getting started
 

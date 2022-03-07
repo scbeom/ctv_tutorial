@@ -15,5 +15,7 @@ allowed-tags:
   - mobile
   - introduction
   - quick_start
+  - example
+  - file_format
 
 # Copyright 2021 Google LLC
