@@ -1,29 +1,26 @@
 ---
 title: Introduction
+tags: [introduction]
+keywords: introduction
 sidebar: mydoc_sidebar
 permalink: ov_introduction.html
 folder: overview
-summary: These instructions will help you get started quickly with the theme.....
+summary: This tutorial introduces a browser-based interactive visualization system, called CellTrackVis, for supporting the quick and easy analysis of cell movements with relevant information.
 ---
 
-## Overview
+## Motivation
 
-Changbeom test
+## Objective
+To address requirements for the analysis of cell behavior patterns. Prominent features of this tool include:
 
-## Survey of features
+* Interactive visualization of cell tracking results
+* Interconnected analysis modules
+* Multi-directional views
 
-Some of the more prominent features of this theme include the following:
+## System overview
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+{% include image.html file="celltrackvis.png" caption="System overview of CellTrackVIs: (A) Setting view, (B) Trajectory view, (C) Lineage view, and (D) Statistic view." %}
 
-## Getting started
-
-To get started, see [Getting Started][index].
+{% include note.html content="CellTrackVis is not a cell segmentation or tracking tool but an interactive visualization system mainly for 2D cell tracking results." %}
 
 {% include links.html %}

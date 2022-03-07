@@ -1,13 +1,13 @@
 ---
 title: "Getting started with the tutorial for CellTrackVis"
-keywords: sample homepage
-tags: [getting_started]
+keywords: homepage
+tags: [quick_start, introduction]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the CellTrackVis tutorial.
+summary: These brief instructions will help you get started quickly with CellTrackVis.
 ---
 
-## Introduction
+## Abstract
 
 CellTrackVis supports a quick and easy analysis of cell movements with relevant information.
 Interconnected views help users effortlessly discover meaningful patterns of cell motions and divisions, and also each component is highly customizable for various biological tasks.
@@ -37,13 +37,13 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 - Run CelTrackVis server.
 
 ```
-python server.py
+  python server.py
 ```
 
 - After running the server, CellTrackVis is available on the web browser (e.g., Chrome).
 
 ```
-127.0.0.1:8000/celltrackvis.html
+  127.0.0.1:8000/celltrackvis.html
 ```
 
 ## License

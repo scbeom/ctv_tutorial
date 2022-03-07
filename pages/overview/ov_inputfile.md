@@ -3,11 +3,8 @@ title: Input files
 sidebar: mydoc_sidebar
 permalink: ov_inputfile.html
 folder: overview
-summary: These instructions will help you prepare input files of CellTrackVis ....
+summary: Input formats of CellTrackVis include text and image data.
 ---
-
-## Overview
-
 
 ## Input
 
