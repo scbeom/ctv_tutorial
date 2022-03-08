@@ -1,6 +1,6 @@
 ---
 title: Example 3
-tags: [example]
+tags: [example, file_format]
 keywords: example
 sidebar: mydoc_sidebar
 permalink: ex_example_3.html

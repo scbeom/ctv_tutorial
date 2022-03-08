@@ -20,7 +20,7 @@ To address requirements for the analysis of cell behavior patterns. Prominent fe
 
 ## System overview
 
-{% include image.html file="celltrackvis.png" caption="System overview of CellTrackVIs: (A) Setting view, (B) Trajectory view, (C) Lineage view, and (D) Statistic view." %}
+{% include image.html file="celltrackvis.png" caption="System overview of CellTrackVIs: (A) Setting view, (B) Trajectory view, (C) Lineage view, and (D) Statistic view." max-width="800" %}
 
 {% include note.html content="CellTrackVis is not a cell segmentation or tracking tool but an interactive visualization system mainly for 2D cell tracking results." %}
 

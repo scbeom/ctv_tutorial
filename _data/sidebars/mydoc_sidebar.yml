@@ -80,13 +80,31 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: 6.0 Release notes
-            url: /mydoc_release_notes_60.html
-            output: web, pdf
-
-      - title: 5. Tag archives
+      - title: 5. FAQ &amp; Tags
         output: web, pdf
         folderitems:
+
+          - title: 5.1 FAQ
+            url: /others_faq.html
+            output: web, pdf
+
+            subfolders:
+              - title: 5.2 Tag archive pages
+                output: web
+                subfolderitems:
+
+                  - title: Introduction pages
+                    url: /tag_introduction.html
+                    output: web
+
+                  - title: File formats pages
+                    url: /tag_file_format.html
+                    output: web
+
+                  - title: Example pages
+                    url: /tag_example.html
+                    output: web
+
 
 #      - title: Overview
 #        output: web, pdf
