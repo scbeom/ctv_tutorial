@@ -9,7 +9,7 @@ summary: This tutorial introduces a browser-based interactive visualization syst
 ---
 
 ## Motivation
-Cell ... In the field of cell biology and simi,
+Existing tools for studying cell trajectories and lineages have some limitations although those have been well developed.
 
 ## Objective
 To address requirements for the analysis of cell behavior patterns. Prominent features of this tool include:

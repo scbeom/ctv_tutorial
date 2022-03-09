@@ -10,13 +10,13 @@ toc: false
 folder: others
 ---
 
-<p>We update frequent questions and those answers consistently. Welcome to your feedback!</p>
+<p>We update frequent questions and those answers consistently. Welcome to your feedback regarding CellTrackVis!</p>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">What is the first question?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">What is the best solution in any issues when using CellTrackVis?</a>
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">

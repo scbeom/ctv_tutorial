@@ -5,7 +5,7 @@ keywords: example
 sidebar: mydoc_sidebar
 permalink: ex_example_3.html
 folder: example
-summary: This example will help ..... pipeline ....
+summary: This example will help you make the pipeline of analysis using CellTrackVis.
 ---
 
 ## Overview

@@ -27,11 +27,13 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 ```
   CellTrackVis
       |server.py
-      |data
-          |...
-      |images
-          |...
       |celltrackvis.html
+      |data
+        |...
+      |images
+        |...
+      |preprocessors
+        |...
 ```
 
 - Run CelTrackVis server.
