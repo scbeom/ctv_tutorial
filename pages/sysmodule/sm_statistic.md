@@ -8,14 +8,15 @@ summary: These instructions will help you get started quickly with the theme....
 
 ## Overview
 
-This Changbeom test
+### Statistic view
 
-## Quantified data
+* Statistics
+    * Uploaded information such as errors, the number of mitosis, and the number of appeared cells are plotted by time.
+* Direction
+    * The number of cells having each velocity (direction) vector are plotted at the left-top.
 
-One of the main obstacles .... :
+## Getting started
 
-## Remark
-
-To get started, see [input module][sm_setting].
+To get started, see [Getting Started][index].
 
 {% include links.html %}
