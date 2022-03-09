@@ -3,7 +3,7 @@ title: Lineage view
 sidebar: mydoc_sidebar
 permalink: sm_lineage.html
 folder: sysmodule
-summary: These instructions will help you get started quickly with the theme.....
+summary: This page describes how to use the Lineage view of CellTrackVis.
 ---
 
 ## Overview

@@ -3,7 +3,7 @@ title: Statistic view
 sidebar: mydoc_sidebar
 permalink: sm_statistic.html
 folder: sysmodule
-summary: These instructions will help you get started quickly with the theme.....
+summary: This page describes how to use the Statistic view of CellTrackVis.
 ---
 
 ## Overview

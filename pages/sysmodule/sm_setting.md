@@ -5,59 +5,41 @@ keywords: setting
 sidebar: mydoc_sidebar
 permalink: sm_setting.html
 folder: sysmodule
-summary: These instructions will help you get started quickly with the theme.....
+summary: This page describes how to use the Setting view of CellTrackVis.
 ---
 
-## Overview
+## Data upload
 
+{% include image.html file="setting_buttons.png" caption="Buttons for uploading tracking results" max-width="500" %}
 
-### Setting view
+Cell tracking results are uploaded through buttons: 
 
-* Trajectories with lineages, and Statistics upload
+* File: a csv file containing trajectory+lineage information 
+* Statistic file: a csv file containing quantified information such as errors, the number of cells, and the number of mitosis
     * Each file must be in the "data" folder.
-    * If there is no background image, set the lowest transparency.
-* A sequence of background images uploaded
-    * An image folder must be in the "images" folder.
+    * If there is no background image, set the lowest transparency (black).
+    * Successfully loaded data will be appeared top of the buttons.
+
+* Image: a folder having the sequence of background images
+    * "Your image folder" must be in the "existing images folder".
     * When uploading an image folder,
-        * Specify "width/height pixels" in the following pop-up boxes.
-        * Upload the trajectory file after uploading images.
         * Refresh the web browser before studying other data sets.
+
+{% include important.html content="Upload the trajectory file after uploading images." %}
+
+## Trajectory view split
+
+{% include image.html file="setting_modes.png" caption="Modes for playing on trajectory view" %}
+
 * Split mode
     * For a detailed analysis in a specific area, trajectory view can be divided using "horizontal" or "vertical" lines.
 * Mini map
     * Zoomed region is navigated by this
 
-## Image
-
-
-{% include note.html content="In CellTrackVis, an image sequence is inessential because every data set is handled independently (but interconnected internally). In other words, reasonable resolution data is enough for the background image." %}
-
-
-3.  Another list item.
-
-    ```js
-    function alert("hello");
-    ```
-
-{% include warning.html content="If you want to upload image data sets, place your data folder in the provided image folder." %}
-
-{% include important.html content="When you want to upload new data sets, place each data set in corresponding proper folder." %}
-
-4.  Another item.
-
-### Key Principle to Remember with Lists
-
-The key principle is to line up the first character after the dot following the number:
-
-{% include image.html file="liningup.png" caption="Lining up the left edge ensures the list stays in tact." %}
-
-Some of the more ..... following:
-
-* [Cell Tracking Challenge](http://www.celltrackingchallenge.net) for contents
-* Advanced landing page layouts from the ???.
+{% include tip.html content="More specific usages can be found in [Example][ex_example_1]." %}
 
 ## Getting started
 
-To get started, see [Getting Started][index].
+To get started directly, see [Quick start][index].
 
 {% include links.html %}

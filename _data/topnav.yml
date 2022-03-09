@@ -3,10 +3,10 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/wooilkim/CellTrackVis
-    - title: News
-      url: /news
+    - title: Code
+      external_url: https://github.com/scbeom/celltrackvis
+#    - title: News
+#      url: /news
 
 ##Topnav dropdowns
 #topnav_dropdowns:

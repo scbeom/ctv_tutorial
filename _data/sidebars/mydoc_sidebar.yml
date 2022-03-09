@@ -76,20 +76,24 @@ entries:
             url: /ex_example_3.html
             output: web, pdf
 
-      - title: 4. Release Notes
+      - title: 4. Publications
         output: web, pdf
         folderitems:
 
-      - title: 5. FAQ &amp; Tags
+      - title: 5. Release Notes
         output: web, pdf
         folderitems:
 
-          - title: 5.1 FAQ
+      - title: 6. FAQ &amp; Tags
+        output: web, pdf
+        folderitems:
+
+          - title: 6.1 FAQ
             url: /others_faq.html
             output: web, pdf
 
             subfolders:
-              - title: 5.2 Tag archive
+              - title: 6.2 Tag archive
                 output: web
                 subfolderitems:
 
