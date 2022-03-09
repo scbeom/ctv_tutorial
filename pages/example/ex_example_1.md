@@ -1,11 +1,11 @@
 ---
-title: Example 1
+title: Example 1 - Split functions
 tags: [example, file_format]
 keywords: example
 sidebar: mydoc_sidebar
 permalink: ex_example_1.html
 folder: example
-summary: This example will help you make the pipeline of analysis using CellTrackVis.
+summary: This example will help you split trajectory view in a proper way..
 ---
 
 ## Overview

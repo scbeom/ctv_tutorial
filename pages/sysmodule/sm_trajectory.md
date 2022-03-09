@@ -6,18 +6,22 @@ folder: sysmodule
 summary: This page describes how to use the Trajectory view of CellTrackVis.
 ---
 
-## Overview
+## Default state
 
-### Trajectory view
+{% include image.html file="traj_view.png" caption="The example of trajectory view" max-width="600" %}
 
-* Cells selection
-    * Cells of interest are selected and highlighted after clicking those.
-    * Then, relevant lineages are also highlighted in the Lineage view.
-* Zoom in and out
-    * Region can be zoomed in and out using mouse scrolling.
+## Cell and trajectory selection
 
-## Getting started
+{% include image.html file="traj_selection.png" caption="Selected cells and trajectories are highlighted" max-width="900" %}
 
-To get started, see [Getting Started][index].
+* Cells of interest are selected and highlighted after clicking those.
+* Then, relevant lineages are also highlighted in the Lineage view.
+
+## Zoom in and out
+
+{% include image.html file="traj_zoom.png" caption="Zoom in and out" max-width="600" %}
+
+* Region can be zoomed in and out using mouse scrolling.
+* Region can be moved using mini map as well.
 
 {% include links.html %}

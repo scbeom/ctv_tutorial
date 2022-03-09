@@ -64,11 +64,11 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: 3.1 Example 1
+          - title: 3.1 Split functions
             url: /ex_example_1.html
             output: web, pdf
 
-          - title: 3.2 Example 2
+          - title: 3.2 CTC data
             url: /ex_example_2.html
             output: web, pdf
 
