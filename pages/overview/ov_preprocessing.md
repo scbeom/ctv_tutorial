@@ -3,14 +3,16 @@ title: Preprocessing
 sidebar: mydoc_sidebar
 permalink: ov_preprocessing.html
 folder: overview
-summary: Pre-processors are provided for dealing with various data types. 
+summary: Preprocessors are provided for dealing with various data types. 
 ---
 
-## Overview
+{% include tip.html content="If you already have the same format data, ignore this section." %}
 
-{% include tip.html content="CellTrackVis ..." %}
+## Cell Tracking Challenge format
 
-{% include note.html content="Each pre-processor is temporary provided and will be moved into the integrated main code in stages." %}
+In the CTC folder, there are two preprocessors.
+
+{% include note.html content="Each preprocessor is temporary provided and will be moved into the integrated main code in stages." %}
 
 ## Getting started
 
