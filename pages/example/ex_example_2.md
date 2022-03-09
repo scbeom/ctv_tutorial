@@ -28,6 +28,6 @@ Time step (min): 5
 
 ## Getting started
 
-To get started, see [Getting Started][index].
+To get started directly, see [Quick start][index].
 
 {% include links.html %}

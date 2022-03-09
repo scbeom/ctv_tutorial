@@ -24,4 +24,8 @@ To address requirements for the analysis of cell behavior patterns. Prominent fe
 
 {% include note.html content="CellTrackVis is not a cell segmentation or tracking tool but an interactive visualization system mainly for 2D cell tracking results." %}
 
+## Getting started
+
+To get started directly, see [Quick start][index].
+
 {% include links.html %}

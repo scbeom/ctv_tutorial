@@ -14,6 +14,6 @@ summary: Pre-processors are provided for dealing with various data types.
 
 ## Getting started
 
-To get started, see [Getting Started][index].
+To get started directly, see [Quick start][index].
 
 {% include links.html %}

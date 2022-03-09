@@ -26,12 +26,10 @@ timestep | ... | ... | ...
 
 ## Details
 
-### Trajectory file
+Editing is being processed due to some changes of CellTrackVis.
 
-### Lineage file
+## Getting started
 
-### Image file
-
-### Statistic file
+To get started directly, see [Quick start][index].
 
 {% include links.html %}
