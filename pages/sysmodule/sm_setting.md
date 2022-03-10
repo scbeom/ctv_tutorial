@@ -1,6 +1,6 @@
 ---
 title: Setting view
-tags: [file_format]
+tags: [file_format, view]
 keywords: setting
 sidebar: mydoc_sidebar
 permalink: sm_setting.html

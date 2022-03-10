@@ -101,12 +101,20 @@ entries:
                     url: /tag_introduction.html
                     output: web
 
+                  - title: Quick start pages
+                    url: /tag_quick_start.html
+                    output: web
+
                   - title: File formats pages
                     url: /tag_file_format.html
                     output: web
 
                   - title: Example pages
                     url: /tag_example.html
+                    output: web
+
+                  - title: View pages
+                    url: /tag_view.html
                     output: web
 
 

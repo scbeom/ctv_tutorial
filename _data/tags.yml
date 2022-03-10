@@ -17,5 +17,6 @@ allowed-tags:
   - quick_start
   - example
   - file_format
+  - view
 
 # Copyright 2021 Google LLC

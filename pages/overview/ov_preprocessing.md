@@ -7,7 +7,7 @@ summary: Preprocessors are provided for dealing with various data types.
 ---
 
 {% include tip.html content="If you already have the same format data, ignore this section and go to the next step." %}
-{% include note.html content="Each preprocessor is temporary provided and will be moved into the integrated main code in stages." %}
+{% include important.html content="Each preprocessor is temporary provided and will be moved into the integrated main code in stages." %}
 
 ## Cell Tracking Challenge (CTC) format
 
@@ -24,10 +24,6 @@ The CTC format results of cell tracking is converted to CellTrackVis format.
 Although tif image can be used directly, png, and jpg are more efficient on web browsers.
 - Note that image backgrounds are not mandatory.
 
-Visit [CTC web page](http://celltrackingchallenge.net) for further details.
-
-## Getting started
-
-To get started directly, see [Quick start][index].
+{% include note.html content="Visit [CTC web page](http://celltrackingchallenge.net) for further details." %}
 
 {% include links.html %}

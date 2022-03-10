@@ -1,19 +1,17 @@
 ---
 title: Example 1 - Split functions
-tags: [example, file_format]
+tags: [example, file_format, view]
 keywords: example
 sidebar: mydoc_sidebar
 permalink: ex_example_1.html
 folder: example
-summary: This example will help you split trajectory view in a proper way..
+summary: This example specifically explain how to split trajectory view in a proper way.
 ---
+
+Users can study not only entire area but also (selected) local region of interest. 
 
 ## Overview
 
 Editing is being processed due to some changes of CellTrackVis.
-
-## Getting started
-
-To get started directly, see [Quick start][index].
 
 {% include links.html %}

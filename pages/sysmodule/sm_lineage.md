@@ -1,20 +1,21 @@
 ---
 title: Lineage view
+tags: [view]
 sidebar: mydoc_sidebar
 permalink: sm_lineage.html
 folder: sysmodule
 summary: This page describes how to use the Lineage view of CellTrackVis.
 ---
 
-## Default state
+## Time bar
 
-{% include image.html file="lin_view.png" caption="The example of lineage view" max-width="700" %}
+{% include image.html file="lin_view.png" caption="The example of lineage view" max-width="400" %}
 
-### Lineage view
+* Trajectories dis/appear by moving the time bar.
 
-* Time bar
-    * Trajectories are changing by moving the time bar.
-* Lineage
-    * Trajectories and points of selected lineages are also highlighted.
+## Lineage selection
+{% include image.html file="lin_selection.png" caption="The example of lineage selection" max-width="600" %}
+
+* Trajectories and points of selected lineages are also highlighted.
 
 {% include links.html %}

@@ -1,6 +1,6 @@
 ---
 title: Input files
-tags: [file_format]
+tags: [file_format, quick_start]
 keywords: input format
 sidebar: mydoc_sidebar
 permalink: ov_inputfile.html
@@ -23,14 +23,12 @@ timestep | ... | ... | ...
 
     * Please see included example files.
 
-{% include tip.html content="If tif images does not quickly show, convert its file format from tif to png, or jpg." %}
+{% include note.html content="After uploading an image folder, wait a bit to plot image backgrounds on trajectory view. It also depends on users' or server's environments." %}
+
+{% include tip.html content="If tif images do not quickly show, convert its file format from tif to png, or jpg before uploading." %}
 
 ## Details
 
 Editing is being processed due to some changes of CellTrackVis.
-
-## Getting started
-
-To get started directly, see [Quick start][index].
 
 {% include links.html %}
