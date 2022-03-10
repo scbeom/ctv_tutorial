@@ -14,7 +14,9 @@ Two tests using CTC data sets.
 
 ## A number of cells
 
-{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization using CellTrackVis" max-width="750" %}
+{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization " max-width="800" %}
+
+One data set of the large number of cells in CTC is plotted on trajectory view.
 
 ### Data description
 ```
@@ -33,9 +35,12 @@ Additional information: PLoS ONE, 2011
 
 ## A number of image backgrounds
 
-{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (BF-C2DLHSC) visualization using CellTrackVis" max-width="750" %}
 
 ### Data description
+{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,717 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="800" %}
+
+One data set of the long image sequences in CTC is plotted on trajectory view.
+
 ```
 Mouse hematopoietic stem cells in hydrogel microwells
 Dr. H. Blau, Baxter Laboratory for Stem Cell Biology, Stanford University, USA
