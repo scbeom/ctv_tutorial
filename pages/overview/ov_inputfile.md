@@ -35,7 +35,7 @@ timestep | ... | ... | ...
 
 - 3D or multi-channel tif image
 
-{% include image.html file="ov_multi_tif.png" caption="3D or multi-channel tif images. This example has 29 images in a tif image file." max-width="500" %}
+{% include image.html file="ov_multi_tif.png" caption="3D or multi-channel tif images. This example has 29 images in a tif file." max-width="500" %}
 
 * Buttons for changing images in a tif image appears when pausing animation (in lineage view).
 

@@ -5,7 +5,7 @@ keywords: example
 sidebar: mydoc_sidebar
 permalink: ex_example_2.html
 folder: example
-summary: This example will give you some insights about Cell Tracking Data (CTC) data on CellTrackVis.
+summary: This example will give you some insights about Cell Tracking Challenge (CTC) data on CellTrackVis.
 ---
 
 {% include note.html content="In this page, editing is being processed due to some changes of CellTrackVis. Contents could be changed." %}
@@ -14,7 +14,7 @@ Two tests using CTC data sets.
 
 ## A number of cells
 
-{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization " max-width="800" %}
+{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization" max-width="800" %}
 
 One data set of the large number of cells in CTC is plotted on trajectory view.
 
@@ -37,7 +37,7 @@ Additional information: PLoS ONE, 2011
 
 
 ### Data description
-{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,717 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="800" %}
+{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,717 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="900" %}
 
 One data set of the long image sequences in CTC is plotted on trajectory view.
 
