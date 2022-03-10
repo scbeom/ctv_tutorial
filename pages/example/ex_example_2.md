@@ -8,11 +8,13 @@ folder: example
 summary: This example will give you some insights about Cell Tracking Data (CTC) data on CellTrackVis.
 ---
 
+{% include note.html content="In this page, editing is being processed due to some changes of CellTrackVis. Contents could be changed." %}
+
 Two tests using CTC data sets.
 
 ## A number of cells
 
-Editing is being processed due to some changes of CellTrackVis.
+{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization using CellTrackVis" max-width="750" %}
 
 ### Data description
 ```
@@ -31,7 +33,7 @@ Additional information: PLoS ONE, 2011
 
 ## A number of image backgrounds
 
-Editing is being processed due to some changes of CellTrackVis.
+{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (BF-C2DLHSC) visualization using CellTrackVis" max-width="750" %}
 
 ### Data description
 ```
