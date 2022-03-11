@@ -28,12 +28,12 @@ folder: others
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">What is the second question?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse_2">How to install the cv2 python package for preprocessing?</a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="collapse_2" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                Coming soon ...
+                                We recommend using "opencv-python package" for using cv2. Otherwise, you can use GDAL package.
                             </div>
                         </div>
                     </div>

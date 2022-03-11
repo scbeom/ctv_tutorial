@@ -14,8 +14,4 @@ summary: This example will help you make the pipeline of analysis using CellTrac
 
 Coming soon ...
 
-## Getting started
-
-To get started directly, see [Quick start][index].
-
 {% include links.html %}

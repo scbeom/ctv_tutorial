@@ -23,7 +23,6 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 - Install Python ref to [Download Python](https://www.python.org/downloads/).
 - Download the source codes and extract files.
 - The directory of CellTrackVis shows the following structure:
-
 ```
   CellTrackVis
       |server.py
@@ -37,18 +36,16 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 ```
 
 - Run CelTrackVis server.
-
 ```
   python server.py
 ```
 
 - After running the server, CellTrackVis is available on the web browser (e.g., Chrome).
-
 ```
   127.0.0.1:8000/celltrackvis.html
 ```
 
-{% include important.html content="Once images or images+etc are uploaded, click the system title (or entirely refresh a browser) before newly uploading other data sets." %}
+   {% include important.html content="Once images or images+etc are uploaded, click the system title (or entirely refresh a browser) before newly uploading other data sets." %}
 
 ## License
 For academic use, this project is licensed under the GNU Lesser General Public License v3.0 - see the LICENSE file for details. For commercial use, please contact the authors.

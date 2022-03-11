@@ -35,9 +35,9 @@ Additional information: PLoS ONE, 2011
 
 ## A number of image backgrounds
 
+{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,717 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="800" %}
 
 ### Data description
-{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,717 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="900" %}
 
 One data set of the long image sequences in CTC is plotted on trajectory view.
 

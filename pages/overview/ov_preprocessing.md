@@ -15,10 +15,10 @@ In the CTC folder, there are two preprocessors:
 
 ### rest2csv.py
 
-The format of CTC result is converted to CellTrackVis format.
-* python rest2csv.py {tif path} {output}
-  - Option 1: segmentation
-  - Option 2: tracking 
+The CTC format of cell tracking result is converted to CellTrackVis format.
+- python rest2csv.py {tif path} {output}
+  * Option 1: segmentation
+  * Option 2: tracking 
 
 ### tif2jpg.py
 
