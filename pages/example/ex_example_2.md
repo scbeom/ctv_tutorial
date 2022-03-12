@@ -12,7 +12,7 @@ Two tests using CTC data sets.
 
 ## A number of cells
 
-{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization" max-width="800" %}
+{% include image.html file="ex_large_num_cells.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization" max-width="850" %}
 
 One data set of the large number of cells in CTC is plotted on trajectory view.
 
@@ -33,7 +33,7 @@ Additional information: PLoS ONE, 2011
 
 ## A number of image backgrounds
 
-{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,717 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="800" %}
+{% include image.html file="ex_long_sequence.png" caption="The snapshot of 1,764 image set (BF-C2DL-HSC) visualization using CellTrackVis" max-width="650" %}
 
 ### Data description
 
