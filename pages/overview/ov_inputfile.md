@@ -8,21 +8,19 @@ folder: overview
 summary: Input formats of CellTrackVis include text and image data.
 ---
 
-{% include note.html content="In this page, editing is being processed due to some changes of CellTrackVis. Contents could be changed." %}
-
 ## File format
 - Trajectories with lineages (csv): bounding boxes with parent-child relationships
 ```bash
 timestep | ID | left | top | height | width | x1 | x2 | x3 | x4 | parent
 ```
-  * timestep: time step when the cell currently exists
-  * ID: an unique positive number of the cell
-  * left: the minimum x-axis coordinate of the detection for the cell
-  * top: the minimum y-axis coordinate of the detection for the cell
-  * height: the length of the detection for the cell
-  * width: the width of the detection for the cell
-  * x1-x4: uncertainty or confident of detection - dummy number (-1) at the moment
-  * parent: the parent ID of the cell
+  * **timestep**: time step when the cell currently exists
+  * **ID**: an unique positive number of the cell
+  * **left**: the minimum x-axis coordinate of the detection for the cell
+  * **top**: the minimum y-axis coordinate of the detection for the cell
+  * **height**: the length of the detection for the cell
+  * **width**: the width of the detection for the cell
+  * **x1-x4**: uncertainty or confident of detection - dummy number (-1) at the moment
+  * **parent**: the parent ID of the cell
 
 - Statistics (csv): timestep with other categories (e.g., error, and mitosis)
 ```bash

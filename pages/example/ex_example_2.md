@@ -8,8 +8,6 @@ folder: example
 summary: This example will give you some insights about Cell Tracking Challenge (CTC) data on CellTrackVis.
 ---
 
-{% include note.html content="In this page, editing is being processed due to some changes of CellTrackVis. Contents could be changed." %}
-
 Two tests using CTC data sets.
 
 ## A number of cells
