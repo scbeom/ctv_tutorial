@@ -13,6 +13,12 @@ summary: This page describes how to use the Lineage view of CellTrackVis.
 
 * Trajectories dis/appear by moving the time bar.
 
+## Animation
+
+{% include image.html file="lin_animation.png" caption="The example of animation play" max-width="400" %}
+
+* Trajectories, time bar, and image sequences can be played using buttons.
+
 ## Lineage selection
 {% include image.html file="lin_selection.png" caption="The example of lineage selection" max-width="600" %}
 
