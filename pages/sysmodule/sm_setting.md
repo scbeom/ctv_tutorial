@@ -50,7 +50,10 @@ Cell tracking results are uploaded through buttons:
   * All point: (disappeared cell at current time) circle plot or not
   * Cell ID: unique identity plot or not
     * Format: id(birth time)
-  * Cell vector:
+  * Cell vector: velocity vectors (to the next time step)
+  * Cell trajectory: (currently appeared) cell's trajectories
+  * All trajectory: (previous and current) cell's all trajectories
+  * Map grid: horizontal and vertical lines for helping measurements
 
 ## Mini map for trajectory view
 
