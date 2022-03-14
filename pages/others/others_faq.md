@@ -21,7 +21,7 @@ folder: others
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                Refresh a web browser.
+                                We suggest refreshing a web browser.
                             </div>
                         </div>
                     </div>

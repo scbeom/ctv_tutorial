@@ -11,19 +11,24 @@ summary: Preprocessors are provided for dealing with various data types.
 
 ## Cell Tracking Challenge (CTC) format
 
-In the CTC folder, there are two preprocessors:
+In the CTC folder, there are currently two preprocessors:
 
 ### rest2csv.py
 
 The CTC format of cell tracking result is converted to CellTrackVis format.
-- python rest2csv.py {tif path} {output}
+- Usage: python rest2csv.py {tif path} {output}
   * Option 1: segmentation
   * Option 2: tracking 
 
 ### tif2jpg.py
 
 Although tif image can be used directly, png, and jpg are more efficient on web browsers.
-- Note that image backgrounds are not mandatory.
+- Usage: python tif2jpg.py
+  * Option: scaling up of visibility (normally 1000~10000)
+
+{% include image.html file="pre_tif2jpg.png" caption="Conversion of tif images for visibility (Fluo-N2DH-GOWT1, CTC data)" max-width="750" %}  
+
+- Note that image backgrounds are not mandatory in CellTrackVis.
 
 {% include note.html content="Visit [CTC web page](http://celltrackingchallenge.net) for further details." %}
 
