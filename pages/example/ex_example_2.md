@@ -106,6 +106,22 @@ Pixel size (microns): 0.645 x 0.645
 Time step (min): 30
 ```
 
+{% include image.html file="ex_PhC-C2DH-U373.png" caption="The snapshot of PhC-C2DH-U373 visualization using CellTrackVis" max-width="700" %}
+
+### Data description (PhC-C2DH-U373)
+
+```
+Glioblastoma-astrocytoma U373 cells on a polyacrylamide substrate
+Dr. S. Kumar. Department of Bioengineering, University of California at Berkeley, Berkeley CA (USA)
+
+Training dataset: http://data.celltrackingchallenge.net/training-datasets/PhC-C2DH-U373.zip✱ (40 MB)
+Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/PhC-C2DH-U373.zip (38 MB)
+
+Microscope: Nikon
+Objective lens: Plan Fluor DLL 20x/0.5
+Pixel size (microns): 0.65 x 0.65
+Time step (min): 15
+```
 
 {% include note.html content="Visit [CTC site - 2D data](http://celltrackingchallenge.net/2d-datasets/) for further details" %}
 
