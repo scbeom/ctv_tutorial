@@ -106,7 +106,8 @@ Pixel size (microns): 0.645 x 0.645
 Time step (min): 30
 ```
 
-{% include image.html file="ex_PhC-C2DH-U373.png" caption="The snapshot of PhC-C2DH-U373 visualization using CellTrackVis" max-width="700" %}
+
+{% include image.html file="ex_PhC-C2DH-U373_1.png" caption="The snapshot of PhC-C2DH-U373 visualization using CellTrackVis" max-width="700" %}
 
 ### Data description (PhC-C2DH-U373)
 
