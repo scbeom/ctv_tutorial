@@ -12,7 +12,7 @@ Two tests using CTC data sets.
 
 ## A number of cells
 
-{% include image.html file="ex_PhC-C2DL-PSC.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization" max-width="850" %}
+{% include image.html file="ex_PhC-C2DL-PSC.png" caption="The snapshot of CTC data (PhC-C2DL-PSC) visualization" max-width="750" %}
 
 One data set of the large number of cells in CTC is plotted on trajectory view.
 
@@ -122,6 +122,23 @@ Microscope: Nikon
 Objective lens: Plan Fluor DLL 20x/0.5
 Pixel size (microns): 0.65 x 0.65
 Time step (min): 15
+```
+
+{% include image.html file="ex_Fluo-C2DL-MSC.png" caption="The snapshot of ex_Fluo-C2DL-MSC visualization using CellTrackVis" max-width="700" %}
+
+### Data description (Fluo-C2DL-MSC)
+
+```
+Rat mesenchymal stem cells on a flat polyacrylamide substrate
+Dr. F. Prósper. Cell Therapy laboratory, Center for Applied Medical Research (CIMA), Pamplona, Spain
+
+Training dataset: http://data.celltrackingchallenge.net/training-datasets/Fluo-C2DL-MSC.zip✱ (72 MB)
+Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/Fluo-C2DL-MSC.zip (71 MB)
+
+Microscope: PerkinElmer UltraVIEW ERS
+Objective lens: Plan-Neofluar 10x/0.3 (Plan-Apo 20x/0.75)
+Pixel size (microns): 0.3 x 0.3 (0.3977 x 0.3977)
+Time step (min): 20 (30)
 ```
 
 {% include note.html content="Visit [CTC site - 2D data](http://celltrackingchallenge.net/2d-datasets/) for further details" %}
