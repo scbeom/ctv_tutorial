@@ -21,9 +21,6 @@ One data set of the large number of cells in CTC is plotted on trajectory view.
 Pancreatic stem cells on a polystyrene substrate
 Dr. T. Becker and Dr. D. Rapoport. Fraunhofer Institution for Marine Biotechnology, Lübeck, Germany
 
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/PhC-C2DL-PSC.zip✱ (124 MB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/PhC-C2DL-PSC.zip (106 MB)
-
 Microscope: Olympus ix-81
 Objective lens: UPLFLN 4XPH
 Pixel size (microns): 1.6 x 1.6
@@ -43,9 +40,6 @@ One data set of the long image sequences in CTC is plotted on trajectory view.
 Mouse hematopoietic stem cells in hydrogel microwells
 Dr. H. Blau, Baxter Laboratory for Stem Cell Biology, Stanford University, USA
 
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/BF-C2DL-HSC.zip✱ (1.6 GB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/BF-C2DL-HSC.zip (1.6 GB)
-
 Microscope: Zeiss PALM/AxioObserver Z1
 Objective lens: EC Plan-Neofluar 10x/0.30 Ph1
 Pixel size (microns): 0.645 x 0.645
@@ -63,9 +57,6 @@ Time step (min): 5
 Human hepatocarcinoma-derived cells expressing the fusion protein YFP-TIA-1
 Dr. Alessia Ruggieri and Philipp Klein, Centre for Integrative Infectious Disease Research (CIID), University Hospital Heidelberg, Germany
 
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/Fluo-C2DL-Huh7.zip (36 MB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/Fluo-C2DL-Huh7.zip (36 MB)
-
 Microscope: Nikon Eclipse Ti2
 Objective lens: CFI Plan Apo Lambda 20x/0.75
 Pixel size (microns): 0.65 x 0.65
@@ -80,9 +71,6 @@ Time step (min): 15
 GFP-GOWT1 mouse stem cells
 Dr. E. Bártová. Institute of Biophysics, Academy of Sciences of the Czech Republic, Brno, Czech Republic
 
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/Fluo-N2DH-GOWT1.zip✱ (53 MB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/Fluo-N2DH-GOWT1.zip (46 MB)
-
 Microscope: Leica TCS SP5
 Objective lens: Plan-Apochromat 63x/1.4 (oil)
 Pixel size (microns): 0.240 x 0.240
@@ -96,9 +84,6 @@ Time step (min): 5
 ```
 HeLa cells stably expressing H2b-GFP
 Mitocheck Consortium
-
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/Fluo-N2DL-HeLa.zip✱ (182 MB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/Fluo-N2DL-HeLa.zip (168 MB)
 
 Microscope: Olympus IX81
 Objective lens: Plan 10x/0.4
@@ -115,9 +100,6 @@ Time step (min): 30
 Glioblastoma-astrocytoma U373 cells on a polyacrylamide substrate
 Dr. S. Kumar. Department of Bioengineering, University of California at Berkeley, Berkeley CA (USA)
 
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/PhC-C2DH-U373.zip✱ (40 MB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/PhC-C2DH-U373.zip (38 MB)
-
 Microscope: Nikon
 Objective lens: Plan Fluor DLL 20x/0.5
 Pixel size (microns): 0.65 x 0.65
@@ -131,9 +113,6 @@ Time step (min): 15
 ```
 Rat mesenchymal stem cells on a flat polyacrylamide substrate
 Dr. F. Prósper. Cell Therapy laboratory, Center for Applied Medical Research (CIMA), Pamplona, Spain
-
-Training dataset: http://data.celltrackingchallenge.net/training-datasets/Fluo-C2DL-MSC.zip✱ (72 MB)
-Challenge dataset: http://data.celltrackingchallenge.net/challenge-datasets/Fluo-C2DL-MSC.zip (71 MB)
 
 Microscope: PerkinElmer UltraVIEW ERS
 Objective lens: Plan-Neofluar 10x/0.3 (Plan-Apo 20x/0.75)
