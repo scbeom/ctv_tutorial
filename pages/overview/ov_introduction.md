@@ -14,9 +14,9 @@ Existing tools for studying cell trajectories and lineages have some limitations
 ## Objective
 To address requirements for the analysis of cell behavior patterns. Prominent features of this tool include:
 
-- Interactive visualization of cell tracking results
-- Interconnected analysis modules
-- Multi-directional visual interaction 
+- Visualization of cell tracking results
+- Intuitively interconnected analysis modules
+- Multi-directional visual interaction
 
 ## System overview
 
