@@ -11,36 +11,32 @@ summary: Input formats of CellTrackVis include text and image data.
 ## File format
 - Trajectories with lineages (csv): bounding boxes with parent-child relationships
 ```bash
-timestep | ID | left | top | height | width | x1 | x2 | x3 | x4 | parent
+timestep | ID | left | top | height | width | img_height | img_width | parent
 ```
-  * **timestep**: time step when the cell currently exists
-  * **ID**: an unique positive number of the cell
+  * **timestep**: the time step of trajectory data
+  * **ID**: the unique positive number of the cell
   * **left**: the minimum x-axis coordinate of the detection for the cell
   * **top**: the minimum y-axis coordinate of the detection for the cell
-  * **height**: the length of the detection for the cell
+  * **height**: the height of the detection for the cell
   * **width**: the width of the detection for the cell
-  * **x1-x4**: uncertainty or confident of detection - dummy number (-1) at the moment
+  * **img_height**: the height of the entire (background) image
+  * **img_width**: the width of the entire (background) image
   * **parent**: the parent ID of the cell
 
 - Statistics (csv): timestep with other categories (e.g., error, and mitosis)
 ```bash
-timestep | num of cells | num of mitosis | MSE | ... 
+timestep | 1st statistic | etc. | ... 
 ```
+  * **timestep**: the time step of lineage data
+  * **1st statistic**: the first quantified information
+  * **etc.**: other values can be added here in order as other columns
 
 - Image (png, jpg, or tif): background figures
   * Please see included example files.
   * [External library](https://github.com/seikichi/tiff.js) is used for tif images.
 
-{% include note.html content="After uploading an image folder, wait a bit to plot image backgrounds on trajectory view. The processing time depends on users' or server's environments." %}
-
 {% include tip.html content="If tif images do not quickly show, convert its file format from tif to png, or jpg before uploading via [preprocessors][ov_preprocessing]." %}
 
-## Details
-
-- 3D or multi-channel tif image
-
-{% include image.html file="ov_multi_tif.png" caption="3D or multi-channel tif images. This example has 29 images in a tif file." max-width="500" %}
-
-* Buttons for changing images in a tif image appear when pausing animation (in lineage view).
+{% include important.html content="Once images or images+etc are uploaded, refresh a browser (or click the system title) before newly uploading other data sets." %}
 
 {% include links.html %}

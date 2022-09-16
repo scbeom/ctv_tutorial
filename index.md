@@ -12,9 +12,7 @@ summary: These brief instructions will help you get started quickly with CellTra
 CellTrackVis supports a quick and easy analysis of cell movements with relevant information.
 Interconnected views help users effortlessly discover meaningful patterns of cell motions and divisions, and also each component is highly customizable for various biological tasks.
 
-- [Code](http://github.com/scbeom/celltrackvis/)
-- [Raw video data](https://drive.google.com/drive/folders/1qzF205PanDbxSgB89rR5CMwrD4qenR-m?usp=sharing)
-  * MDA-MB-231
+- [Code and data](http://github.com/scbeom/celltrackvis/)
 
 ## Environment setup
 
@@ -48,8 +46,6 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 ```
   127.0.0.1:8000/celltrackvis.html
 ```
-
-   {% include important.html content="Once images or images+etc are uploaded, click the system title (or entirely refresh a browser) before newly uploading other data sets." %}
 
 ## License
 For academic use, this project is licensed under the GNU Lesser General Public License v3.0 - see the LICENSE file for details. For commercial use, please contact the authors.

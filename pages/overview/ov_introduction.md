@@ -9,18 +9,19 @@ summary: This tutorial introduces a browser-based interactive visualization syst
 ---
 
 ## Motivation
-Existing tools for studying cell trajectories and lineages have some limitations although those have been well developed.
+Existing tools for studying cell trajectories and lineages have room for improvements, although those have been well developed.
 
 ## Objective
 To address requirements for the analysis of cell behavior patterns. Prominent features of this tool include:
 
-- Visualization of cell tracking results
-- Intuitively interconnected analysis modules
-- Multi-directional visual interaction
+- Visual interactivity
+- Standalone tool
+- Integrated interfaces
+- Flexible input
 
 ## System overview
 
-{% include image.html file="celltrackvis.png" caption="System overview of CellTrackVIs: (A) Setting view, (B) Trajectory view, (C) Lineage view, and (D) Statistic view." max-width="800" %}
+{% include image.html file="system.png" caption="System overview of CellTrackVIs: (A) Setting view, (B) Trajectory view, (C) Lineage view, and (D) Statistic view." max-width="800" %}
 
 {% include note.html content="CellTrackVis is not a cell segmentation or tracking tool but an interactive visualization system mainly for 2D cell tracking results." %}
 
