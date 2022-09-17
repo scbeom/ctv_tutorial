@@ -33,9 +33,9 @@ timestep | 1st statistic | etc. | ...
 
 - Image (png, jpg, or tif): background figures
   * Please see included example files.
-  * [External library](https://github.com/seikichi/tiff.js) is used for tif images.
+  * [External library](https://github.com/seikichi/tiff.js) is used for TIF images.
 
-{% include tip.html content="If tif images do not quickly show, convert its file format from tif to png, or jpg before uploading via [preprocessors][ov_preprocessing]." %}
+{% include tip.html content="If TIF images do not quickly show, convert its file format from tif to png, or jpg before uploading via [preprocessors][ov_preprocessing]." %}
 
 {% include important.html content="Once images or images+etc are uploaded, refresh a browser (or click the system title) before newly uploading other data sets." %}
 

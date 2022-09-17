@@ -10,26 +10,32 @@ summary: This page describes how to use the Setting view of CellTrackVis.
 
 ## Data upload
 
-{% include image.html file="setting_buttons.png" caption="Buttons for uploading tracking results" max-width="500" %}
+Cell tracking results are uploaded through three buttons: 
 
-Cell tracking results are uploaded through buttons: 
+* Trajectory file: a csv file containing trajectory+lineage information
+  * Loaded trajectories and/or lineages are appeared in the trajectory view.
+  * Set the lowest transparency (black) if there is no background image in the current analysis.
 
-* File: a csv file containing trajectory+lineage information 
+{% include image.html file="setting_trajectory.gif" max-width="800" %}
+ 
+
 * Statistic file: a csv file containing quantified information such as errors, the number of cells, and the number of mitosis
-    * Each file must be in the "data" folder.
-    * If there is no background image, set the lowest transparency (black).
-    * Successfully loaded data will be appeared top of the buttons.
+    * Loaded statistics are appeared in the statistic view.
 
-* Image: a folder having the sequence of background images
-    * "Your image folder" must be in the existing "images" folder.
-    * When uploading an image folder,
-        * Refresh the web browser before studying other data sets.
+{% include image.html file="setting_statistic.gif" max-width="800" %}
 
-{% include important.html content="Upload the trajectory file after uploading images." %}
+
+* Image file: a folder having the sequence of background images
+    * Loaded images are appeared in the trajectory view as backgrounds.
+
+{% include image.html file="setting_image.gif" max-width="800" %}
+
+
+{% include important.html content="Trajectory with lineage files must be in the 'data' folder, and image files must be in the 'image' folder." %}
 
 ## Split functions for trajectory view
 
-{% include image.html file="setting_modes.png" caption="Modes for playing on trajectory view" max-width="800" %}
+{% include image.html file="setting_modes.gif" caption="Modes for playing on trajectory view" max-width="800" %}
 
 * Split mode
     * For a detailed analysis in a specific area, trajectory view can be divided using "horizontal" or "vertical" lines.
