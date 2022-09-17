@@ -35,16 +35,16 @@ Cell tracking results are uploaded through three buttons:
 
 ## Split functions for trajectory view
 
-{% include image.html file="setting_modes.gif" caption="Modes for playing on trajectory view" max-width="800" %}
+{% include image.html file="setting_modes.gif" caption="Modes for playing on the trajectory view" max-width="800" %}
 
 * Split mode
     * For a detailed analysis in a specific area, trajectory view can be divided using "horizontal" or "vertical" lines.
 
 {% include tip.html content="More specific usages can be found in [Example][ex_example_1]." %}
 
-## Options for trajectory view
+## Option controller for trajectory view
 
-{% include image.html file="setting_options.png" caption="Modes for playing on trajectory view" max-width="400" %}
+{% include image.html file="setting_options.gif" max-width="800" %}
 
 * Bar
   * Image: the transparency of image backgrounds 
@@ -52,20 +52,20 @@ Cell tracking results are uploaded through three buttons:
   * Thickness: the thickness of trajectories (with vector arrows)
 
 * Tick box
-  * Cell point: (cell) circle plot or not
-  * All point: (disappeared cell at current time) circle plot or not
-  * Cell ID: unique identity plot or not
+  * Cell point: toggle for positions of cells, which have not disappeared
+  * All points: toggle for dotted circles on positions of all cells (disappeared at current time)
+  * Cell label: toggle for cell labels composed of an identifier and the birth time
     * Format: id(birth time)
-  * Cell vector: velocity vectors (to the next time step)
-  * Cell trajectory: (currently appeared) cell's trajectories
-  * All trajectory: (previous and current) cell's all trajectories
-  * Map grid: horizontal and vertical lines for helping measurements
+  * Cell vector: toggle for vectors of cell direction (to the next time step)
+  * Cell trajectory: toggle for linked lines between previous and current positions of cells (currently appeared) 
+  * All trajectories: toggle for dotted linked lines between previous and current positions of all cells (previous and current)
+  * Map grid: toggle for grid lines on the entire area
 
 ## Mini map for trajectory view
 
-{% include image.html file="setting_minimap.png" caption="Modes for playing on trajectory view" max-width="300" %}
+{% include image.html file="setting_minimap.gif" max-width="800" %}
 
 * Mini map
-    * Zoomed region is navigated in this minimized map.
+    * Zoomed region is navigated using the minimized map.
 
 {% include links.html %}
