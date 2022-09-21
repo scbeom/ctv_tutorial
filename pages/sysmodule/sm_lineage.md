@@ -7,21 +7,21 @@ folder: sysmodule
 summary: This page describes how to use the Lineage view of CellTrackVis.
 ---
 
-## Time bar
-
-{% include image.html file="lin_view.png" caption="The example of lineage view" max-width="400" %}
-
-* Trajectories dis/appear by moving the time bar.
-
 ## Animation
 
-{% include image.html file="lin_animation.png" caption="The example of animation play" max-width="400" %}
+{% include image.html file="lin_animation.gif" caption="Example of the animation function" max-width="800" %}
 
-* Trajectories, time bar, and image sequences can be played using buttons.
+* Trajectories, images, and histograms can be played using video buttons.
+
+## Time bar
+
+{% include image.html file="lin_bar.gif" caption="Example of the time bar" max-width="800" %}
+
+* Trajectories, images, and histograms can be explored by moving the time bar.
 
 ## Lineage selection
-{% include image.html file="lin_selection.png" caption="The example of lineage selection" max-width="600" %}
+{% include image.html file="lin_selection.gif" caption="Example of lineage selection" max-width="800" %}
 
-* Trajectories and points of selected lineages are also highlighted.
+* Trajectories and points of selected lineages are highlighted.
 
 {% include links.html %}

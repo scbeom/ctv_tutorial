@@ -16,35 +16,35 @@ Cell tracking results are uploaded through three buttons:
   * Loaded trajectories and/or lineages are appeared in the trajectory view.
   * Set the lowest transparency (black) if there is no background image in the current analysis.
 
-{% include image.html file="setting_trajectory.gif" max-width="800" %}
+{% include image.html file="setting_trajectory.gif" caption="Example of trajectory with lineage uploading" max-width="800" %}
  
 
 * Statistic file: a csv file containing quantified information such as errors, the number of cells, and the number of mitosis
     * Loaded statistics are appeared in the statistic view.
 
-{% include image.html file="setting_statistic.gif" max-width="800" %}
+{% include image.html file="setting_statistic.gif" caption="Example of statistic uploading" max-width="800" %}
 
 
 * Image file: a folder having the sequence of background images
     * Loaded images are appeared in the trajectory view as backgrounds.
 
-{% include image.html file="setting_image.gif" max-width="800" %}
+{% include image.html file="setting_image.gif" caption="Example of image uploading" max-width="800" %}
 
 
 {% include important.html content="Trajectory with lineage files must be in the 'data' folder, and image files must be in the 'image' folder." %}
 
 ## Split functions for trajectory view
 
-{% include image.html file="setting_modes.gif" caption="Modes for playing on the trajectory view" max-width="800" %}
+{% include image.html file="setting_modes.gif" caption="Example of the mode change" max-width="800" %}
 
 * Split mode
     * For a detailed analysis in a specific area, trajectory view can be divided using "horizontal" or "vertical" lines.
 
-{% include tip.html content="More specific usages can be found in [Example][ex_example_1]." %}
+{% include tip.html content="More specific usages can be found in [Examples][ex_example_1]." %}
 
 ## Option controller for trajectory view
 
-{% include image.html file="setting_options.gif" max-width="800" %}
+{% include image.html file="setting_options.gif" caption="Example of option controller" max-width="800" %}
 
 * Bar
   * Image: the transparency of image backgrounds 
@@ -63,7 +63,7 @@ Cell tracking results are uploaded through three buttons:
 
 ## Mini map for trajectory view
 
-{% include image.html file="setting_minimap.gif" max-width="800" %}
+{% include image.html file="setting_minimap.gif" caption="Example of the mini map" max-width="800" %}
 
 * Mini map
     * Zoomed region is navigated using the minimized map.

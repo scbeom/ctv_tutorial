@@ -64,24 +64,24 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: 3.1 Split functions
-            url: /ex_example_1.html
-            output: web, pdf
+#          - title: 3.1 Split functions
+#            url: /ex_example_1.html
+#            output: web, pdf
 
-          - title: 3.2 CTC data
+          - title: 3.1 CTC data
             url: /ex_example_2.html
             output: web, pdf
 
-      - title: 5. FAQ &amp; Tags
+      - title: 4. FAQ &amp; Tags
         output: web, pdf
         folderitems:
 
-          - title: 5.1 FAQ
+          - title: 4.1 FAQ
             url: /others_faq.html
             output: web, pdf
 
             subfolders:
-              - title: 5.2 Tag archive
+              - title: 4.2 Tag archive
                 output: web
                 subfolderitems:
 

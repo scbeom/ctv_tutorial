@@ -39,6 +39,6 @@ Users can study not only entire area but also (selected) local region of interes
 * M: delete line
     - Delete a line by hovering the line.
 
-{% include important.html content="You can find current (split) sub-mode under the key map instruction on setting view." %}
+{% include note.html content="You can find current (split) sub-mode under the key map instruction on setting view." %}
 
 {% include links.html %}
