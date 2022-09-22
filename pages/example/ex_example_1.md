@@ -1,6 +1,6 @@
 ---
 title: Example 1 - Split functions
-tags: [example, file_format, view]
+tags: 
 keywords: example
 sidebar: mydoc_sidebar
 permalink: ex_example_1.html
