@@ -12,23 +12,23 @@ summary: This page describes how to use the Setting view of CellTrackVis.
 
 Cell tracking results are uploaded through three buttons: 
 
+{% include image.html file="setting_trajectory.gif" caption="Example of trajectory with lineage uploading" max-width="800" %}
+
 * Trajectory file: a csv file containing trajectory+lineage information
   * Loaded trajectories and/or lineages are appeared in the trajectory view.
   * Set the lowest transparency (black) if there is no background image in the current analysis.
 
-{% include image.html file="setting_trajectory.gif" caption="Example of trajectory with lineage uploading" max-width="800" %}
- 
+
+{% include image.html file="setting_statistic.gif" caption="Example of statistic uploading" max-width="800" %} 
 
 * Statistic file: a csv file containing quantified information such as errors, the number of cells, and the number of mitosis
     * Loaded statistics are appeared in the statistic view.
 
-{% include image.html file="setting_statistic.gif" caption="Example of statistic uploading" max-width="800" %}
 
+{% include image.html file="setting_image.gif" caption="Example of image uploading" max-width="800" %}
 
 * Image file: a folder having the sequence of background images
     * Loaded images are appeared in the trajectory view as backgrounds.
-
-{% include image.html file="setting_image.gif" caption="Example of image uploading" max-width="800" %}
 
 
 {% include important.html content="Trajectory with lineage files must be in the 'data' folder, and image files must be in the 'image' folder." %}
