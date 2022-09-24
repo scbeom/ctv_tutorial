@@ -48,6 +48,6 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 ```
 
 ## License
-For academic use, this project is licensed under the GNU Lesser General Public License v3.0 - see the LICENSE file for details. For commercial use, please contact the authors.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 {% include links.html %}
