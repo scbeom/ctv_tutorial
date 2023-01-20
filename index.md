@@ -12,12 +12,12 @@ summary: These brief instructions will help you get started quickly with CellTra
 CellTrackVis supports a quick and easy analysis of cell movements with relevant information.
 Interconnected views help users effortlessly discover meaningful patterns of cell motions and divisions, and also each component is highly customizable for various biological tasks.
 
-- [Code and data](http://github.com/scbeom/celltrackvis/)
+- [Code and Data (syntetic/real)](http://github.com/scbeom/celltrackvis/)
 
 ## Environment setup
 
 **Requirements:**
-- MAC OS, Linux or Windows
+- macOS, Linux, or Windows
 - Python 3.7+
 
 **Steps of using CellTrackVis:**
@@ -33,7 +33,7 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
         |...
       |images
         |...
-      |preprocessors
+      |importers
         |...
 ```
 
@@ -46,6 +46,8 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
 ```
   127.0.0.1:8000/celltrackvis.html
 ```
+
+{% include important.html content="Please find ''importers'' for considering various types of tracking outputs." %}
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.

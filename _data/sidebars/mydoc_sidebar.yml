@@ -36,7 +36,7 @@ entries:
             url: /ov_inputfile.html
             output: web, pdf
 
-          - title: 1.4 Preprocessing
+          - title: 1.4 Importers
             url: /ov_preprocessing.html
             output: web, pdf
 

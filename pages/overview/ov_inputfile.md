@@ -25,17 +25,18 @@ timestep | ID | left | top | height | width | img_height | img_width | parent
 
 - Statistics (csv): timestep with other categories (e.g., error, and mitosis)
 ```bash
-timestep | 1st statistic | etc. | ... 
+timestep | 1st stat. | 2nd stat. | etc. | ... 
 ```
   * **timestep**: the time step of lineage data
-  * **1st statistic**: the first quantified information
+  * **1st stat.**: the first quantified information
+  * **2nd stat.**: the second quantified information
   * **etc.**: other values can be added here in order as other columns
 
 - Image (png, jpg, or tif): background figures
   * Please see included example files.
   * [External library](https://github.com/seikichi/tiff.js) is used for TIF images.
 
-{% include tip.html content="If TIF images do not quickly show, convert its file format from tif to png, or jpg before uploading via [preprocessors][ov_preprocessing]." %}
+{% include tip.html content="If TIF images do not quickly show, convert its file format from tif to png, or jpg before uploading via [importers][ov_preprocessing]." %}
 
 {% include important.html content="Once images or images+etc are uploaded, refresh a browser (or click the system title) before newly uploading other data sets." %}
 
