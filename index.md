@@ -7,7 +7,7 @@ permalink: index.html
 summary: These brief instructions will help you get started quickly with CellTrackVis.
 ---
 
-{% include important.html content="\[Jan.19.2023\] Detailed instruction is coming soon!" %}
+{% include important.html content="\[Jan.19.2023\] Detailed instruction is being prepared. Coming soon!" %}
 
 ## Abstract
 
