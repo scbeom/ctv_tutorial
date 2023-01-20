@@ -16,7 +16,7 @@ timestep | ID | left | top | height | width | img_height | img_width | parent
   * **timestep**: the time step of trajectory data
   * **ID**: the unique positive number of the cell
   * **left**: the minimum x-axis coordinate of the detection for the cell
-  * **top**: the minimum y-axis coordinate of the detection for the cell
+  * **top**: the maximum y-axis coordinate of the detection for the cell
   * **height**: the height of the detection for the cell
   * **width**: the width of the detection for the cell
   * **img_height**: the height of the entire (background) image
