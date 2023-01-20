@@ -1,5 +1,5 @@
 ---
-title: Preprocessing
+title: Importers
 sidebar: mydoc_sidebar
 permalink: ov_preprocessing.html
 folder: overview
@@ -28,7 +28,7 @@ Although tif image can be used directly, PNG, and JEPG are more efficient on web
 
 - Note that image backgrounds are not mandatory in CellTrackVis. Please visit [CTC web page](http://celltrackingchallenge.net) for further details.
 
-## 2D coordinate format
+## 2D coordinate (CSV) format
 
 This importer covert 2D points into CellTrackVis box forms:
 

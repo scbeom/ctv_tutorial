@@ -7,6 +7,8 @@ permalink: index.html
 summary: These brief instructions will help you get started quickly with CellTrackVis.
 ---
 
+{% include important.html content="\[Jan.19.2023\] Detailed instruction is coming soon!" %}
+
 ## Abstract
 
 CellTrackVis supports a quick and easy analysis of cell movements with relevant information.
@@ -47,7 +49,7 @@ Interconnected views help users effortlessly discover meaningful patterns of cel
   127.0.0.1:8000/celltrackvis.html
 ```
 
-{% include important.html content="Please find ''importers'' for considering various types of tracking outputs." %}
+{% include tip.html content="Please find ''importers'' for considering various types of tracking outputs." %}
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.

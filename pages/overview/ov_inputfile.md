@@ -32,7 +32,7 @@ timestep | 1st stat. | 2nd stat. | etc. | ...
   * **2nd stat.**: the second quantified information
   * **etc.**: other values can be added here in order as other columns
 
-- Image (png, jpg, or tif): background figures
+- Image (JPEG, PNG, BMP, GIF, or TIFF): background figures
   * Please see included example files.
   * [External library](https://github.com/seikichi/tiff.js) is used for TIF images.
 
