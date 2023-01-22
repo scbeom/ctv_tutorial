@@ -7,14 +7,14 @@ permalink: index.html
 summary: These brief instructions will help you get started quickly with CellTrackVis.
 ---
 
-{% include important.html content="\[Jan.19.2023\] Detailed instruction is being prepared. Coming soon!" %}
+{% include important.html content="\Further detailed instruction is being prepared. Coming soon!" %}
 
 ## Abstract
 
 CellTrackVis supports a quick and easy analysis of cell movements with relevant information.
 Interconnected views help users effortlessly discover meaningful patterns of cell motions and divisions, and also each component is highly customizable for various biological tasks.
 
-- [Code and Data (syntetic/real)](http://github.com/scbeom/celltrackvis/)
+- [Code and Data (synthetic/real)](http://github.com/scbeom/celltrackvis/)
 
 ## Environment setup
 
